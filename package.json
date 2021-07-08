@@ -3,9 +3,23 @@
   "version": "1.0.0",
   "description": "Template for initial react app",
   "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "react-router",
+    "react-router-dom"
+  ],
   "author": "Nika Sepiskveradze",
   "license": "ISC",
   "dependencies": {
     "prettier": "^2.3.2"
+  },
+  "files": ["template", "template.json"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikasepiskveradze/cra-template-ares.git",
+    "directory": "/"
   }
 }
