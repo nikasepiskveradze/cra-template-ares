@@ -24,7 +24,7 @@ Folder structure:
 ─── src
      │   assets
      │   components
-     │   contants
+     │   constants
      │   hoc
      │   hooks
      │   screens
