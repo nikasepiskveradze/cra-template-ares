@@ -3,7 +3,8 @@
         "dependencies": {
             "react-router-dom": "latest",
             "formik": "latest",
-            "yup": "latest"
+            "yup": "latest",
+            "moment": "latest"
         }
     }
 }

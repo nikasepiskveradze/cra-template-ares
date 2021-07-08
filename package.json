@@ -9,7 +9,9 @@
     "cra-template",
     "template",
     "react-router",
-    "react-router-dom"
+    "react-router-dom",
+    "moment",
+    "formik"
   ],
   "author": "Nika Sepiskveradze",
   "license": "ISC",
