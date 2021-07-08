@@ -11,15 +11,26 @@ Template includes:
 2. formik
 3. yup
 4. moment
+5. axios
+6. node-sass
+7. object-to-formdata
+8. prop-types
+9. react-i18next
+10. i18next
 
 Folder structure:
 ```
 ─── public
 ─── src
+     │   assets
      │   components
      │   contants
+     │   hoc
+     │   hooks
      │   screens
      │   services
+     │   translation
      │   utils
+     │   validation
          index.js
 ```
