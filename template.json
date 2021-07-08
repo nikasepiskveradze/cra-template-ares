@@ -4,7 +4,13 @@
             "react-router-dom": "latest",
             "formik": "latest",
             "yup": "latest",
-            "moment": "latest"
+            "moment": "latest",
+            "axios": "latest",
+            "node-sass": "latest",
+            "object-to-formdata": "latest",
+            "prop-types": "latest",
+            "react-i18next": "latest",
+            "i18next": "latest"
         }
     }
 }

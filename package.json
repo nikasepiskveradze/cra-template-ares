@@ -1,6 +1,6 @@
 {
   "name": "cra-template-ares",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Template for initial react app",
   "main": "template.json",
   "keywords": [
@@ -11,7 +11,8 @@
     "react-router",
     "react-router-dom",
     "moment",
-    "formik"
+    "formik",
+    "axios"
   ],
   "author": "Nika Sepiskveradze",
   "license": "ISC",
