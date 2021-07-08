@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-ares",
+  "version": "1.0.0",
+  "description": "Template for initial react app",
+  "main": "template.json",
+  "author": "Nika Sepiskveradze",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}

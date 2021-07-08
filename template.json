@@ -1,0 +1,9 @@
+{
+    "package": {
+        "dependencies": {
+            "react-router-dom": "latest",
+            "formik": "latest",
+            "yup": "latest"
+        }
+    }
+}
